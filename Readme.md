@@ -133,7 +133,9 @@ Your account is locked. Click here immediately to verify.
 ## Contributors
 
 - **Pamala Madhumitha Yadav**
-- **Munisai K**
+- **Munisai Kannemmagari**
+- **Sankeesa Anshu**
+- **Amith Reddy Karre**
   
 ## License
 
